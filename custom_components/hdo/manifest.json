@@ -1,0 +1,13 @@
+{
+  "domain": "hdo",
+  "name": "hDo",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/hdo",
+  "issue_tracker": "https://github.com/yourusername/hdo/issues",
+  "codeowners": ["@yourusername"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "integration_type": "service",
+  "requirements": [],
+  "dependencies": []
+}

@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "hDo Login",
+        "description": "Melde dich mit deinen Supabase-Zugangsdaten an.",
+        "data": {
+          "email": "E-Mail",
+          "password": "Passwort"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "E-Mail oder Passwort falsch.",
+      "cannot_connect": "Verbindung zu Supabase fehlgeschlagen.",
+      "unknown": "Unerwarteter Fehler."
+    },
+    "abort": {
+      "already_configured": "Dieses Konto ist bereits eingerichtet."
+    }
+  }
+}
